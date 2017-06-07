@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="xir5n25.remidiuts.telkomschid.remidiuts.Page2Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textViewNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Nama : Pradana Dike Rrochmad Izzulhaq"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:id="@+id/textViewKelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Kelas : XI RPL 5"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:id="@+id/textViewNoUrut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" No Urut : 25"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:id="@+id/textViewNIS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" NIS : 4799/1518.070"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+    <TextView
+        android:id="@+id/textViewSekolah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Nama Sekolah : SMK Telkom Malang"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+</LinearLayout>
